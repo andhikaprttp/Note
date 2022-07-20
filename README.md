@@ -1,7 +1,10 @@
 # Note🐣
 simple note with javascript
-> Live preview aplikasi 👇
+> Live preview web 👇
 <a href="https://tiamardiana-note.vercel.app/">tiamardiana-note.vercel.app</a>
+
+> Demo Android apk 📱
+<a href="https://fdroid.com">Tia Note apk</a>
 
 # Fitur📣
 - Buat Catatan
