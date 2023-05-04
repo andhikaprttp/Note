@@ -52,7 +52,7 @@ function displayNotes(){
 					<div class="card-body">
 						<h6>${element.time}</h6>
 						<p class="card-text">${element.text.replace(/</g, "&lt;").replace(/>/g, "&gt;")}</p>
-						<button id="${index}" onclick=deleteNote(this.id) class="btn btn-danger">Delete</button>
+						<button id="${index}" onclick=deleteNote(this.id) class="btn btn-danger">Hapus</button>
 					</div>
 				</div>
 			`;
