@@ -124,7 +124,6 @@ search.addEventListener('input',function(e){
 		}
 	});
 	
-	//Below code will be executed when the input text matches all the elements.
 	if(countNone === 0){
 		document.getElementById('noMatches').innerHTML = '';
 	}
