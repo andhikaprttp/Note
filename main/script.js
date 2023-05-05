@@ -88,8 +88,6 @@ function deleteNote(index){
 	displayNotes();
 }
 
-
-
 let search = document.getElementById('search');
 search.addEventListener('input',function(e){
 	
