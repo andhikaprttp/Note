@@ -19,6 +19,7 @@ addBtn.addEventListener('click',function(){
 	let now = new Date();
 	let dateTime = `${now.getDate()}-${now.getMonth()+1}-${now.getFullYear()} | ${now.getHours()}:${now.getMinutes()}`;
 	
+	// Tia Mardiana
 	
 	//bawa ke local storage
 	let tempObj = { text: addNote.value, time: dateTime };
