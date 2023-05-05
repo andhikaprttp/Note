@@ -96,7 +96,7 @@ search.addEventListener('input',function(e){
 	
 	let inputText = search.value;
 	
-	//below statement will be executed when the search bar is emptied using backspace
+	// Tiabetesss
 	if(inputText == ''){
 		document.getElementById('noMatches').innerHTML = '';
 	}
